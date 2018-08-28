@@ -1,5 +1,5 @@
 body {
-  animation: colorchange 1000s infinite;
+  animation: colorchange 5000s infinite;
   text-allign : center; 
    margin-top: 80px;
 }
